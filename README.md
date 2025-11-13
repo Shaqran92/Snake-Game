@@ -12,45 +12,52 @@ The project offers smooth animations, dynamic gameplay, score tracking, and pers
 - **⏯️ Restart or Quit Option** — Easily restart the game with R or quit with Q after a game over.
 - **⚡ Smooth Animations** — Uses screen.tracer(0) and timed updates for fluid motion.
 
-##🧱 Project Structure
-    snake_game/
-    │
-    ├── main.py           # Main game loop and event handling
-    ├── snake.py          # Snake movement and control logic
-    ├── food.py           # Food appearance and random repositioning
-    ├── scoreboard.py     # Score display and high score persistence
-    └── data.txt          # High score storage file
-
 ##🕹️ How to Play
 
 Run the game using:
+
 python main.py
 
 
 Use the arrow keys ⬆️ ⬇️ ⬅️ ➡️ to control your snake.
+
 Eat the red food to grow and increase your score.
+
 Avoid hitting the walls or your own tail!
+
 When the game ends:
+
 Press R to restart.
+
 Press Q to quit.
 
 ##🧠 Concepts Demonstrated
 
+
 Object-Oriented Programming (OOP)
+
 Event-driven programming
+
 File handling and data persistence
+
 Animation and real-time updates with turtle
+
 Collision detection and game logic
 
 ##🏆 Future Enhancements
 
 Add sound effects 🎵
+
 Introduce multiple levels or speed increases
+
 Add color themes and visual customization
+
 Display leaderboard with timestamps
 
 ##👨‍💻 Author
 
 [Shaqran Hussain]
+
 A Python enthusiast passionate about building interactive and visually engaging projects.
+
 🌐 https://www.linkedin.com/in/shaqranhussain01/ | 💻 [GitHub](https://github.com/Shaqran92/Snake-Game)
